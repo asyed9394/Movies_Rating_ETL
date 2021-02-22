@@ -40,8 +40,13 @@ Write code from this module to create one function that takes in the three files
 - Final ETL code: [ETL Code to transform and load movie data](ETL_create_database.ipynb)
 - Row counts in final movie database
 
+Note: The data files are not loaded to Git due to the size. Data files can be donwloaded from the links provided above.
+
+### Row count in movie table:
 	![Row counts in movies table](/Resources/movies_query.png)
 	
+
+### Row count in Ratings table:
 	![Row count in rating table](/Resources/ratings_query.png)
 	
 	
