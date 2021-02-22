@@ -43,11 +43,13 @@ Write code from this module to create one function that takes in the three files
 Note: The data files are not loaded to Git due to the size. Data files can be donwloaded from the links provided above.
 
 ### Row count in movie table:
-	![Row counts in movies table](/Resources/movies_query.png)
+
+![Row counts in movies table](/Resources/movies_query.png)
 	
 
 ### Row count in Ratings table:
-	![Row count in rating table](/Resources/ratings_query.png)
+
+![Row count in rating table](/Resources/ratings_query.png)
 	
 	
 
