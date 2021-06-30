@@ -11,12 +11,12 @@ In order to support data scientist , the data team is going to create a movie da
 - Wikipedia data for movies from 1990 to 2018:
 	Wikipedia has a ton of information about movies, including budgets and box office returns, cast and crew, production and distribution, and so much more.
 	
-- Use Rating data available online rather than from the company's app. 	So the dataset found on Kaggle that contains ratings data from MovieLens, a site run by the GroupLens research team.
+- Decided to use Rating data available online rather than from the company's app.So the dataset found on Kaggle that contains ratings data from MovieLens, a site run by the GroupLens research team.
 	This data is available as part of Kaggle's [The IMDB Movie database TMDB](https://www.themoviedb.org/)
 
 
 ### Challenge:
-- Extract and load data into python data forames to data , build tranformation and data cleaning logic. Enrich data about movies by combining Kaggle and Wikipedia movies data.
+- Extract and load data into python data frames to review data , build tranformation and data cleaning logic. Enrich data about movies by combining Kaggle and Wikipedia movies data.
 - Transform : Write python functions to clean, merge and trasnform data into usable format
 - Load int the database : load data into the database
 Write code from this module to create one function that takes in the three files—Wikipedia data, Kaggle metadata, and the MovieLens rating data—and performs the ETL process by adding the data to a PostgreSQL database.
